@@ -9,4 +9,4 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Thank%20you&fontSize=45)
+![Footer](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=200&section=footer&text=Thank%20you&fontSize=45)
