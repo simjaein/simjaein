@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=130&section=header&text=Jaein's%20github!&fontSize=50)
 ### About me
-- Email: jisim1112@gmail.com
+📫 Email: jisim1112@gmail.com
 
 
 
@@ -9,4 +9,4 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=footer&text=Thank%20you&fontSize=45)
+![Footer](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=footer&text=&fontSize=30)
