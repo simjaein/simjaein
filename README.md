@@ -4,7 +4,7 @@
 
 
 ### 🍒About me🍒
-📫 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : jisim1112@gmail.com
+📫 Email: jisim1112@gmail.com
 
 
 🤓 I've used
