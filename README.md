@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=130&section=header&text=Jaein's%20github!&fontSize=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hellow+🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hellow+🐯🤖&font=Rubik Iso&size=40)](https://git.io/typing-svg)
 
 
 ### 🍒About me🍒
