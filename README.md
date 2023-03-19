@@ -16,8 +16,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simjaein)](https://github.com/simjaein/github-readme-stats)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=simjaein&theme=flat&column=7)](https://github.com/simjaein/)
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=footer&text=&fontSize=30)
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=simjaein&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
