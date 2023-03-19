@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=130&section=header&text=Jaein's%20github!&fontSize=50)
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hi+there🐯&font=Righteous&size=33)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hi+there🐯&font=Righteous&size=33)](https://git.io/typing-svg)
 </p>
 
 
