@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simjaein)](https://github.com/simjaein/github-readme-stats)
