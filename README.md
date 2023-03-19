@@ -17,6 +17,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=simjaein&theme=buefy&show_icons=true"/></a>
 
+🥑 My hobby 🥑
+
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+reading 📖
+listening to music 🎧
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=simjaein&theme=flat&column=7)](https://github.com/simjaein/)
 
 
