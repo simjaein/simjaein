@@ -21,11 +21,11 @@
 
 🥑 My hobby 🥑
 
-reading 📖
+📖 reading
 
-listening to music 🎧
+🎧 listening to music
 
-aerobic exercise 🏃
+🏃 aerobic exercise
 
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
