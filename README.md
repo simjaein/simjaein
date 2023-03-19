@@ -14,9 +14,7 @@
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 
-<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=simjaein&theme=buefy&show_icons=true"/></a>
-</p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=simjaein&theme=flat&column=7)](https://github.com/simjaein/)
