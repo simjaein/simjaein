@@ -12,10 +12,10 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=simjaein&theme=buefy&show_icons=true"/></a>
-
+<img src="https://github-readme-stats.vercel.app/api?username=simjaein&theme=buefy&show_icons=true"/></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=simjaein&theme=flat&column=7)](https://github.com/simjaein/)
 
